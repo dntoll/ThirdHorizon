@@ -2,6 +2,7 @@
 
 
 require_once("model/Horizon.php");
+require_once("model/Randomizers.php");
 require_once("controller/Controller.php");
 require_once("view/View.php");
 

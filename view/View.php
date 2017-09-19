@@ -23,12 +23,17 @@ class View {
 	}
 
 	public function showOrbiter(Orbiter $star, $depth) {
-		
+		$tabs = "";
 		for($i = 0; $i < $depth; $i++) {
-			echo "\t";
+			$tabs .= "\t";
 		}
 
-		echo " " . $star->getName() . "\n" ;
+		echo "$tabs" . get_class($star) ." " . $star->getName() . "\n" ;
+
+		foreach ($star as $key => $value) {
+			echo $tabs . "\t$key: $value" . "\n" ;
+		}
+
 		$planets = $star->getOrbiters();
 		foreach ($planets as $planet) {
 			$this->showOrbiter($planet, $depth + 1);

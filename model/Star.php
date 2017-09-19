@@ -47,6 +47,8 @@ class Star extends Orbiter {
 				}
 			}
 		}
+
+		//should be sorted so that Gas Giants are more common out in the rim
 	}
 
 }

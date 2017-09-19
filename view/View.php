@@ -15,7 +15,7 @@ class View {
 	}
 
 	public function showSystem(StarSystem $system) {
-		echo "System " . $system->getName() . "\n" ;
+		echo "\nSystem " . $system->getName() . "\n" ;
 		$stars = $system->getOrbiters();
 		foreach ($stars as $star) {
 			$this->showOrbiter($star, 1);

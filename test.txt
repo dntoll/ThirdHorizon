@@ -1,0 +1,2479 @@
+
+System Aiwaz
+	Star Aiwaz A
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomGasGiant 2480 Antinimede Vesta
+			size: 150 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Fläck - superstorm
+			inOrbit: Tom rymd
+		RandomPlanet  Xingol VI
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ikonernas kyrka, 
+			inOrbit: Rymdstation
+			hooks: Mörkret mellan stjärnorna, Pilgrimaria
+		RandomPlanet  Lyni VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Legionen, Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Störtat skepp, Okända ruiner
+	Star Aiwaz B
+		numPlanets: 5
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomGasGiant  M'du 
+			size: 250 000 km
+			color: Svavelgul
+			temperature: 500˚
+			signature: Varmt/kallt hål
+			inOrbit: Asteroidbälte
+		RandomPlanet  Aridu III
+			size: 2000 km, 0.1 G
+			atmosphere: Tunn
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ikonernas kyrka, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Diktatur, Epidemi
+		RandomPlanet  Xinkin 
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ahlams tempel, 
+			inOrbit: Måne/månar
+			hooks: Fribrigader i uppror, Krig
+		RandomPlanet  Pempkin Prime
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Syndikatet, Fria ligan, 
+			inOrbit: Måne/månar
+			hooks: Mörkret mellan stjärnorna, Diktatur
+
+System Algebar
+	Star Algebar
+		numPlanets: 12
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Damm/aska
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomGasGiant  Unkin 
+			size: 150 000 km
+			color: Rödorange
+			temperature: 2000˚
+			signature: Fläck - superstorm
+			inOrbit: Tom rymd
+		RandomPlanet New Satascha Prime
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Farliga väsen, Mörkret mellan stjärnorna
+		RandomPlanet  Antinigol III
+			size: 12 500 km, 1 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Konsortiet, Ahlams tempel, 
+			inOrbit: Bortglömda stationer
+			hooks: Mörkret mellan stjärnorna, Ockupation
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Damm/aska
+			signature: Bältet frekventeras av vakuumvarelser
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Is
+			signature: 
+		RandomPlanet  Kyorir 
+			size: 10 000 km, 0.7 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Jordlik värld.
+			population: Miljontals invånare.
+			spaceHarbor: Metropolis rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Nomadfederationen, Konsortiet, 
+			inOrbit: Ringar
+			hooks: Kolonister, Mörkret mellan stjärnorna
+		RandomPlanet  Sulnis VI
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Frusen < -50˚, Allt vatten är fruset och atmosfären är väldigt torr.
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Konsortiet, Zenits hegemoni, 
+			inOrbit: Ringar
+			hooks: Ikonokrati, Seismiskt högaktiv
+		RandomPlanet  Pempgol III
+			size: 10 000 km, 0.7 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Pariatets orden, Fria ligan, 
+			inOrbit: Satelliter
+			hooks: Pilgrimaria, Apokalyps
+		RandomGasGiant  Kyorir Prime
+			size: 200 000 km
+			color: Rödorange
+			temperature: 1000˚
+			signature: Varmt/kallt hål
+			inOrbit: Tom rymd
+		RandomGasGiant 1117 Lyredo VI
+			size: 150 000 km
+			color: Smaragdgrön
+			temperature: 0˚
+			signature: Varmt/kallt hål
+			inOrbit: Tom rymd
+
+System Algol
+	Star Algol
+		numPlanets: 6
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		Planet Algol
+		RandomPlanet New Arischa 
+			size: 7000 km, 0.5 G
+			atmosphere: Tät
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Konsortiet, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Ockupation, Förfallen stad
+		RandomPlanet  Sulkin 
+			size: 7000 km, 0.5 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, 
+			inOrbit: Tom rymd
+			hooks: Farliga väsen, Störtat skepp
+		RandomPlanet  Slynis VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Special
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Zenits hegemoni, Fria ligan, 
+			inOrbit: Tom rymd
+			hooks: Fribrigader i uppror, Extrem nederbörd
+		RandomPlanet 9359 Yatir Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Hundratusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Fria ligan, 
+			inOrbit: Tom rymd
+			hooks: Emirat, Diktatur
+		RandomPlanet  M'mede Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Miljontals invånare.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ahlams tempel, 
+			inOrbit: Rymdstation
+			hooks: Förfallen stad, Extrem nederbörd
+	Star Persei
+		numPlanets: 0
+		hasGasGiant: 
+		hasAsteroidBelt: 
+	Star Rhaas
+		numPlanets: 2
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet  Harir 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Zenits hegemoni, Ahlams tempel, 
+			inOrbit: Måne/månar
+			hooks: Diktatur, Fribrigader i uppror
+		RandomPlanet  Satani Vesta
+			size: 12 500 km, 1 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Hundratusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ikonernas kyrka, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Naturkatastrof, Folkvälde
+
+System Altai
+	Star Altai
+		numPlanets: 7
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomGasGiant  Antiniredo Prime
+			size: 150 000 km
+			color: Smaragdgrön
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Tom rymd
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomPlanet 8263 Wargol Vesta
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Legionen, Ahlams tempel, Ahlams tempel, 
+			inOrbit: Rymdstation
+			hooks: Folkvälde, Krig
+		RandomPlanet New Kyotir Vesta
+			size: 15 000 km, 1.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Ahlams tempel, Pariatets orden, Pariatets orden, 
+			inOrbit: Rymdstation
+			hooks: Laglöshet, Vulkanutbrott
+		RandomPlanet  Sulredo Prime
+			size: 10 000 km, 0.7 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Tidigare kolonisering, Folkvälde
+		RandomPlanet  Kyomede VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Infiltrerande, giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Satelliter
+			hooks: Ockupation, Laglöshet
+		RandomPlanet  Lyredo 
+			size: 15 000 km, 1.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Pariatets orden, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Fribrigader i uppror, Förstkomna ruiner
+
+System Amedo
+	Star Amedo A
+		numPlanets: 10
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		Planet Amedo
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Grus och is
+			signature: 
+		RandomGasGiant  Antinini 
+			size: 100 000 km
+			color: Smaragdgrön
+			temperature: -200˚
+			signature: Varmt/kallt hål
+			inOrbit: Asteroidbälte
+		RandomPlanet  Xinri Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Tunn
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Konsortiet, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Översvämningar, Pilgrimaria
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Damm/aska
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Grus och is
+			signature: 
+		RandomGasGiant New Yakin VI
+			size: 200 000 km
+			color: Svavelgul
+			temperature: 500˚
+			signature: Ringar
+			inOrbit: Tom rymd
+		RandomGasGiant New Sataredo 
+			size: 200 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Varmt/kallt hål
+			inOrbit: Tom rymd
+		RandomPlanet  Hyroly VI
+			size: 12 500 km, 1 G
+			atmosphere: Infiltrerande, giftig
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Nomadfederationen, Zenits hegemoni, 
+			inOrbit: Ringar
+			hooks: Naturkatastrof, Mörkret mellan stjärnorna
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Metall, vrak och planetlämningar
+			signature: Bältet går i vinkel mot övriga planeters banor
+	Star Amedo B (Ekharan)
+		numPlanets: 3
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		Orbiter Ekharans öga
+		RandomPlanet  Kyogol 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Vattenvärld Endast ocean.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Zenits hegemoni, Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Störtat skepp, Primitiva förstkomna
+		RandomPlanet  Satascha 
+			size: 1000 km, Närmast 0 G
+			atmosphere: Giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Zenits hegemoni, Ikonernas kyrka, Konsortiet, 
+			inOrbit: Rymdstation
+			hooks: Farliga väsen, Militärer
+
+System Anaspora
+	Star Anaspora
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet  Antinikin VI
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Zenits hegemoni, Ahlams tempel, Nomadfederationen, 
+			inOrbit: Måne/månar
+			hooks: Polisstat, Folkvälde
+		RandomGasGiant 548 Sulredo 
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Tom rymd
+		RandomGasGiant  Hagol 
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Rymdstation
+
+System Awadhi
+	Star Awadhi A
+		numPlanets: 3
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet New Suldu 
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 5
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, Ikonernas kyrka, Konsortiet, Drakoniterna, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Förstkomna ruiner, Fraktionssammandrabbningar
+		RandomPlanet  Yatir Prime
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Ahlams tempel, Ikonernas kyrka, 
+			inOrbit: Asteroidbälte
+			hooks: Ikonokrati, Portalbyggarruiner
+		RandomPlanet  Marigol III
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Utpost.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Pariatets orden, Pariatets orden, 
+			inOrbit: Tom rymd
+			hooks: Farliga väsen, Korsarer
+	Star Awadhi B
+		numPlanets: 7
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet  Kyoredo III
+			size: 15 000 km, 1.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 4
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Pariatets orden, Ikonernas kyrka, Ahlams tempel, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Naturkatastrof, Kolonister
+		RandomPlanet New Ganyrir 
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ö-värld Oceaner och mindre landyta
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Ahlams tempel, Zenits hegemoni, 
+			inOrbit: Tom rymd
+			hooks: Epidemi, Extrem nederbörd
+		RandomPlanet  Pempkin III
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Hundratusentals invånare.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Ikonernas kyrka, Konsortiet, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Okända ruiner, Primitiva förstkomna
+		RandomPlanet  Aridu 
+			size: 12 500 km, 1 G
+			atmosphere: Giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Konsortiet, Konsortiet, 
+			inOrbit: Bortglömda stationer
+			hooks: Pilgrimaria, Portalbyggarruiner
+		RandomPlanet 5434 Hari III
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Frusen < -50˚, Allt vatten är fruset och atmosfären är väldigt torr.
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Obebodd.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Fria ligan, 
+			inOrbit: Bortglömda stationer
+			hooks: Krig, Polisstat
+		RandomPlanet  Slytir 
+			size: 10 000 km, 0.7 G
+			atmosphere: Tät
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Nomadfederationen, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Kult, Kolonister
+		RandomPlanet 6230 Maririr 
+			size: 7000 km, 0.5 G
+			atmosphere: Tunn
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Zenits hegemoni, Legionen, 
+			inOrbit: Satelliter
+			hooks: Ikonokrati, Översvämningar
+	Star Awadhi C
+		numPlanets: 0
+		hasGasGiant: 
+		hasAsteroidBelt: 
+
+System Caph
+	Star Caph A
+		numPlanets: 4
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet  Haredo 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Havsvärld Endast enstaka arkipelager och småöar.
+			population: Tiotusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Fria ligan, Zenits hegemoni, Ahlams tempel, 
+			inOrbit: Ringar
+			hooks: Militärer, Eldstormar och skogsbränder
+		RandomPlanet New Yani Prime
+			size: 2000 km, 0.1 G
+			atmosphere: Infiltrerande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Obebodd.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Fria ligan, Ikonernas kyrka, 
+			inOrbit: Rymdstation
+			hooks: Titanstormar, Förfallen stad
+		RandomPlanet  Mariredo Prime
+			size: 2000 km, 0.1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Obebodd.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Nomadfederationen, Ahlams tempel, 
+			inOrbit: Måne/månar
+			hooks: Förfallen stad, Kult
+		RandomPlanet  Slyrir 
+			size: 12 500 km, 1 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 4
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Konsortiet, Zenits hegemoni, Konsortiet, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Epidemi, Titanstormar
+	Star Caph B
+		numPlanets: 5
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: En större planet finns mitt i bältet
+		RandomGasGiant 5845 Antininis Prime
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Tom rymd
+		RandomPlanet  Ganyredo 
+			size: 7000 km, 0.5 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tiotusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Pariatets orden, Zenits hegemoni, 
+			inOrbit: Rymdstation
+			hooks: Kult, Översvämningar
+		RandomPlanet  Slyrir Vesta
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Pariatets orden, Syndikatet, Pariatets orden, 
+			inOrbit: Måne/månar
+			hooks: Polisstat, Extremt patriarkat/matriarkat
+		RandomPlanet  Xingol III
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Frusen < -50˚, Allt vatten är fruset och atmosfären är väldigt torr.
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Hundratals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Seismiskt högaktiv, Extremt patriarkat/matriarkat
+
+System Dabaran
+	Star Dabaran A (röd jätte)
+		numPlanets: 7
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		Planet Dabaran
+		Planet Salamanx
+		Planet Arara
+		RandomPlanet  Sulscha VI
+			size: 2000 km, 0.1 G
+			atmosphere: Andningsbar
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Zenits hegemoni, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Förstkomna ruiner, Polisstat
+		RandomPlanet  Antinidu Prime
+			size: 15 000 km, 1.5 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Vattenvärld Endast ocean.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Zenits hegemoni, Konsortiet, 
+			inOrbit: Rymdstation
+			hooks: Naturkatastrof, Eldstormar och skogsbränder
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Is
+			signature: Bältet frekventeras av vakuumvarelser
+		RandomPlanet  Sulri 
+			size: 10 000 km, 0.7 G
+			atmosphere: Infiltrerande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Pariatets orden, Konsortiet, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Okända ruiner, Ockupation
+	Star Dabaran B (liten så den knappt syns)
+		numPlanets: 0
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+
+System Daybul
+	Star Daybul A
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet 1375 Pempkin 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ahlams tempel, 
+			inOrbit: Bortglömda stationer
+			hooks: Mörkret mellan stjärnorna, Fribrigader i uppror
+		RandomPlanet New Marigol 
+			size: 7000 km, 0.5 G
+			atmosphere: Tunn
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 6
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Fria ligan, Ikonernas kyrka, Ahlams tempel, Konsortiet, Konsortiet, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Krig, Diktatur
+		RandomPlanet New Sulscha 
+			size: 12 500 km, 1 G
+			atmosphere: Giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ikonernas kyrka, Ahlams tempel, 
+			inOrbit: Måne/månar
+			hooks: Titanstormar, Mörkret mellan stjärnorna
+	Star Daybul B
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Kyomede Prime
+			size: 2000 km, 0.1 G
+			atmosphere: Special
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Nomadfederationen, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Förfallen stad, Primitiva förstkomna
+		RandomGasGiant  Pempredo Vesta
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Måne/månar
+		RandomGasGiant  Hani 
+			size: 150 000 km
+			color: Svavelgul
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Måne/månar
+
+System Dziban
+	Star Dziban
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet 8483 Marily VI
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Övergiven utpost.
+			spaceHarbor: Metropolis rymdhamnar (+1 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Laglöshet, Krig
+		RandomGasGiant  Hyronis 
+			size: 200 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Varmt/kallt hål
+			inOrbit: Rymdstation
+		RandomPlanet 6782 Kyoly 
+			size: 10 000 km, 0.7 G
+			atmosphere: Special
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Zenits hegemoni, 
+			inOrbit: Tom rymd
+			hooks: Tidigare kolonisering, Krig
+
+System Eanu
+	Star Eanu A
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet  Hyromede 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ahlams tempel, 
+			inOrbit: Rymdstation
+			hooks: Okända ruiner, Tidigare kolonisering
+		RandomPlanet New Unredo 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Konsortiet, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Vulkanutbrott, Militärer
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Grus och is
+			signature: Bältet är mycket ljusstarkt och syns alltid på himlen, även dagtid
+	Star Eanu B
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Sulri 
+			size: 7000 km, 0.5 G
+			atmosphere: Tunn
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Apokalyps, Ockupation
+		RandomGasGiant 1954 Sulgol Vesta
+			size: 150 000 km
+			color: Rödorange
+			temperature: 0˚
+			signature: Stormar
+			inOrbit: Måne/månar
+		RandomPlanet New Marikin Vesta
+			size: 15 000 km, 1.5 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ahlams tempel, 
+			inOrbit: Tom rymd
+			hooks: Folkvälde, Korsarer
+
+System Erequ
+	Star Erequ
+		numPlanets: 5
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomPlanet  Hyrorir III
+			size: 2000 km, 0.1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Rebeller, Emirat
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Damm/aska
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Damm/aska
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: En större planet finns mitt i bältet
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Grus och is
+			signature: Bältet går i vinkel mot övriga planeters banor
+
+System Errai
+	Star Errai A
+		numPlanets: 6
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomPlanet  Yascha 
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Nomadfederationen, Fria ligan, 
+			inOrbit: Bortglömda stationer
+			hooks: Extremt patriarkat/matriarkat, Extremt patriarkat/matriarkat
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Is
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Damm/aska
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Damm/aska
+			signature: 
+	Star Errai B
+		numPlanets: 2
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet  Kyomede 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Pariatets orden, 
+			inOrbit: Tom rymd
+			hooks: Apokalyps, Portalbyggarruiner
+		RandomPlanet  Unscha VI
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Ikonernas kyrka, Konsortiet, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Rebeller, Översvämningar
+
+System Ghodar
+	Star Ghodar
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: 
+		RandomPlanet  Satagol III
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Fria ligan, Fria ligan, 
+			inOrbit: Tom rymd
+			hooks: Störtat skepp, Laglöshet
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Grus och is
+			signature: En större planet finns mitt i bältet
+
+System Hamura
+	Star Hamura
+		numPlanets: 2
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		Planet Hamura
+			Orbiter Hamurabi
+		RandomPlanet 9764 Yatir Vesta
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Vattenvärld Endast ocean.
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Zenits hegemoni, 
+			inOrbit: Måne/månar
+			hooks: Folkvälde, Korsarer
+
+System Kua
+	Star Kua
+		numPlanets: 6
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		Planet Lubau
+		Planet Jina
+		Planet Kua
+			Orbiter Coriolis
+				population: 710918
+				size: 6136m hög, 3540m diameter
+			Orbiter Nätet
+		Planet Asteroidbältet
+		Planet Xene
+		Planet Surha
+		Planet Gränsrymden
+			Orbiter Djachroum
+
+System Marfik
+	Star Marfik
+		numPlanets: 4
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet  Lyrir Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Pariatets orden, Pariatets orden, Ahlams tempel, 
+			inOrbit: Tom rymd
+			hooks: Krig, Fraktionssammandrabbningar
+		RandomPlanet  Hanis 
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ö-värld Oceaner och mindre landyta
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Fria ligan, 
+			inOrbit: Tom rymd
+			hooks: Eldstormar och skogsbränder, Förstkomna ruiner
+		RandomPlanet New Hyroly Vesta
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Miljontals invånare.
+			spaceHarbor: Handelskluster rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ikonernas kyrka, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Översvämningar, Fraktionssammandrabbningar
+		RandomPlanet  Arimede 
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Handelskluster rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Nomadfederationen, Konsortiet, 
+			inOrbit: Rymdstation
+			hooks: Krig, Portalbyggarruiner
+
+System Melik
+	Star Melik
+		numPlanets: 5
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Slyrir Prime
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Havsvärld Endast enstaka arkipelager och småöar.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Ikonernas kyrka, Nomadfederationen, Zenits hegemoni, 
+			inOrbit: Rymdstation
+			hooks: Tidigare kolonisering, Epidemi
+		RandomGasGiant  Marily VI
+			size: 150 000 km
+			color: Azurblå
+			temperature: 500˚
+			signature: Fläck - superstorm
+			inOrbit: Bortglömda stationer
+		RandomPlanet  Lyri Vesta
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 6
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Zenits hegemoni, Konsortiet, Ahlams tempel, Ahlams tempel, Nomadfederationen, Ahlams tempel, 
+			inOrbit: Satelliter
+			hooks: Förstkomna ruiner, Kult
+		RandomGasGiant 5376 Aritir 
+			size: 100 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Varmt/kallt hål
+			inOrbit: Måne/månar
+		RandomGasGiant New Yari 
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Varmt/kallt hål
+			inOrbit: Satelliter
+
+System Melik
+	Star Melik
+		numPlanets: 5
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Slyrir Prime
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Havsvärld Endast enstaka arkipelager och småöar.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Ikonernas kyrka, Nomadfederationen, Zenits hegemoni, 
+			inOrbit: Rymdstation
+			hooks: Tidigare kolonisering, Epidemi
+		RandomGasGiant  Marily VI
+			size: 150 000 km
+			color: Azurblå
+			temperature: 500˚
+			signature: Fläck - superstorm
+			inOrbit: Bortglömda stationer
+		RandomPlanet  Lyri Vesta
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 6
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Zenits hegemoni, Konsortiet, Ahlams tempel, Ahlams tempel, Nomadfederationen, Ahlams tempel, 
+			inOrbit: Satelliter
+			hooks: Förstkomna ruiner, Kult
+		RandomGasGiant 5376 Aritir 
+			size: 100 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Varmt/kallt hål
+			inOrbit: Måne/månar
+		RandomGasGiant New Yari 
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Varmt/kallt hål
+			inOrbit: Satelliter
+
+System Mira
+	Star Mira A
+		numPlanets: 6
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		Planet Mira
+		RandomPlanet New Warni III
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Vattenvärld Endast ocean.
+			population: Tiotusentals invånare.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ikonernas kyrka, 
+			inOrbit: Bortglömda stationer
+			hooks: Störtat skepp, Förfallen stad
+		RandomGasGiant  Satari III
+			size: 150 000 km
+			color: Rödorange
+			temperature: 0˚
+			signature: Varmt/kallt hål
+			inOrbit: Måne/månar
+		RandomGasGiant New Arily III
+			size: 150 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Fläck - superstorm
+			inOrbit: Måne/månar
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Damm/aska
+			signature: Bältet går i vinkel mot övriga planeters banor
+	Star Mira B (Antmira)
+		numPlanets: 4
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomGasGiant New Hyromede VI
+			size: 150 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Stormar
+			inOrbit: Rymdstation
+		RandomPlanet  Haly VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Zenits hegemoni, 
+			inOrbit: Rymdstation
+			hooks: Eldstormar och skogsbränder, Mörkret mellan stjärnorna
+		RandomGasGiant 6016 Xintir Vesta
+			size: 200 000 km
+			color: Rödorange
+			temperature: 500˚
+			signature: Ringar
+			inOrbit: Måne/månar
+		RandomPlanet 8186 Hanis 
+			size: 7000 km, 0.5 G
+			atmosphere: Frätande, giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Zenits hegemoni, 
+			inOrbit: Tom rymd
+			hooks: Laglöshet, Seismiskt högaktiv
+	Star Mira C (Menau)
+		numPlanets: 5
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		Planet Menau
+		RandomPlanet  Lymede 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Zenits hegemoni, Konsortiet, Ikonernas kyrka, 
+			inOrbit: Rymdstation
+			hooks: Krig, Pilgrimaria
+		RandomPlanet 6635 Pempri 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Metropolis rymdhamnar (+1 underhåll).
+			numFractions: 1
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Legionen, 
+			inOrbit: Tom rymd
+			hooks: Fribrigader i uppror, Mörkret mellan stjärnorna
+		RandomGasGiant New Hyrotir Prime
+			size: 100 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Gasvarelser
+			inOrbit: Tom rymd
+		RandomPlanet  Kyodu VI
+			size: 7000 km, 0.5 G
+			atmosphere: Tunn
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ahlams tempel, Nomadfederationen, 
+			inOrbit: Måne/månar
+			hooks: Laglöshet, Översvämningar
+
+System Nagar
+	Star Nagar A
+		numPlanets: 4
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Yascha VI
+			size: 4000 km, 0.2 G
+			atmosphere: Giftig
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Nomadfederationen, Ikonernas kyrka, Syndikatet, 
+			inOrbit: Måne/månar
+			hooks: Titanstormar, Vulkanutbrott
+		RandomGasGiant  Unnis 
+			size: 150 000 km
+			color: Rödorange
+			temperature: 0˚
+			signature: Stormar
+			inOrbit: Måne/månar
+		RandomPlanet  Ganytir 
+			size: 12 500 km, 1 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Miljontals invånare.
+			spaceHarbor: Metropolis rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Konsortiet, Ahlams tempel, 
+			inOrbit: Ringar
+			hooks: Okända ruiner, Förfallen stad
+		RandomPlanet New Yaredo 
+			size: 2000 km, 0.1 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Legionen, 
+			inOrbit: Bortglömda stationer
+			hooks: Ikonokrati, Epidemi
+	Star Nagar B
+		numPlanets: 0
+		hasGasGiant: 
+		hasAsteroidBelt: 
+
+System Nharmada
+	Star Nharmada A
+		numPlanets: 2
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet  Yascha VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Extrem nederbörd, Emirat
+		RandomPlanet  Ganydu Prime
+			size: 4000 km, 0.2 G
+			atmosphere: Infiltrerande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ahlams tempel, 
+			inOrbit: Rymdstation
+			hooks: Kolonister, Farliga väsen
+	Star Nharmada B
+		numPlanets: 7
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet  Haly Vesta
+			size: 20 000 km, 2 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Primitiva förstkomna, Vulkanutbrott
+		RandomPlanet New Yani VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Infiltrerande, giftig
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Obebodd.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Legionen, 
+			inOrbit: Rymdstation
+			hooks: Krig, Förstkomna ruiner
+		RandomPlanet  Satagol 
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Drakoniterna, 
+			inOrbit: Rymdstation
+			hooks: Pilgrimaria, Polisstat
+		RandomPlanet  Kyoly 
+			size: 10 000 km, 0.7 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Fria ligan, 
+			inOrbit: Tom rymdTom rymd
+			hooks: Laglöshet, Apokalyps
+		RandomPlanet New M'ly Prime
+			size: 10 000 km, 0.7 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tiotusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Konsortiet, Pariatets orden, 
+			inOrbit: Tom rymd
+			hooks: Ikonokrati, Farliga väsen
+		RandomPlanet 7528 Kyoredo VI
+			size: 1000 km, Närmast 0 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Ikonernas kyrka, Legionen, 
+			inOrbit: Satelliter
+			hooks: Primitiva förstkomna, Mörkret mellan stjärnorna
+		RandomPlanet  Ungol Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Havsvärld Endast enstaka arkipelager och småöar.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Konsortiet, Ahlams tempel, 
+			inOrbit: Tom rymd
+			hooks: Pilgrimaria, Seismiskt högaktiv
+	Star Nharmada C (röd jätte)
+		numPlanets: 4
+		hasGasGiant: 1
+		hasAsteroidBelt: 1
+		RandomPlanet New Slyredo 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Ikonernas kyrka, Zenits hegemoni, 
+			inOrbit: Tom rymd
+			hooks: Diktatur, Förfallen stad
+		RandomGasGiant  Sulri Prime
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Gasvarelser
+			inOrbit: Tom rymd
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Metall, vrak och planetlämningar
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: En större planet finns mitt i bältet
+
+System Odacon
+	Star Odacon
+		numPlanets: 5
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		Orbiter Khôban
+		Planet Sethlan
+			Orbiter Echron
+		Orbiter Askbältet
+		Planet Qayna
+		RandomPlanet  Sataly VI
+			size: 1000 km, Närmast 0 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Zenits hegemoni, Zenits hegemoni, 
+			inOrbit: Måne/månar
+			hooks: Seismiskt högaktiv, Kult
+
+System Ordana
+	Star Ordana A
+		numPlanets: 7
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomGasGiant 9071 Xinmede 
+			size: 150 000 km
+			color: Vit
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Tom rymd
+		RandomPlanet 403 Antinini III
+			size: 20 000 km, 2 G
+			atmosphere: Tät
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Fria ligan, Pariatets orden, Konsortiet, 
+			inOrbit: Bortglömda stationer
+			hooks: Apokalyps, Kult
+		RandomGasGiant  Lynis VI
+			size: 150 000 km
+			color: Gråskimrande
+			temperature: 1000˚
+			signature: Fläck - superstorm
+			inOrbit: Rymdstation
+		RandomGasGiant  Lyri 
+			size: 150 000 km
+			color: Svavelgul
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Tom rymd
+		RandomPlanet  Antininis 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Konsortiet, Konsortiet, 
+			inOrbit: Asteroidbälte
+			hooks: Förstkomna ruiner, Epidemi
+		RandomPlanet 5851 Slykin VI
+			size: 1000 km, Närmast 0 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Utpost.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ikonernas kyrka, Konsortiet, 
+			inOrbit: Rymdstation
+			hooks: Kolonister, Tidigare kolonisering
+		RandomPlanet  Marimede III
+			size: 12 500 km, 1 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Obebodd.
+			spaceHarbor: Handelskluster rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ikonernas kyrka, Ahlams tempel, 
+			inOrbit: Satelliter
+			hooks: Laglöshet, Rebeller
+	Star Ordana B
+		numPlanets: 6
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomPlanet  Xinkin Vesta
+			size: 7000 km, 0.5 G
+			atmosphere: Tät
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Zenits hegemoni, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Emirat, Ikonokrati
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Grus och is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Metall, vrak och planetlämningar
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Damm/aska
+			signature: Bältet innehåller mycket rester från portalbyggarna
+		RandomPlanet  Hyronis Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tiotusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, Legionen, 
+			inOrbit: Tom rymd
+			hooks: Forskare, Störtat skepp
+		RandomPlanet  Slytir Vesta
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Frusen < -50˚, Allt vatten är fruset och atmosfären är väldigt torr.
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Konsortiet, Ahlams tempel, 
+			inOrbit: Rymdstation
+			hooks: Tidigare kolonisering, Krig
+
+System Rigel
+	Star Rigel
+		numPlanets: 1
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Is
+			signature: Bältet går i vinkel mot övriga planeters banor
+
+System Sadaal
+	Star Ashegird (Sadaal)
+		numPlanets: 9
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		Planet Sadaal
+		RandomPlanet  Arikin III
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 6
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, Fria ligan, Legionen, Nomadfederationen, Konsortiet, Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Förstkomna ruiner, Vulkanutbrott
+		RandomPlanet 5647 Pempkin Vesta
+			size: 20 000 km, 2 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ö-värld Oceaner och mindre landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Fria ligan, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Ikonokrati, Förfallen stad
+		RandomPlanet New Sulnis Prime
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Obebodd.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, Konsortiet, Legionen, 
+			inOrbit: Tom rymd
+			hooks: Krig, Forskare
+		RandomGasGiant  Pempredo 
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Tom rymd
+		RandomPlanet  Arily VI
+			size: 2000 km, 0.1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Ikonernas kyrka, 
+			inOrbit: RingarTom rymd
+			hooks: Fraktionssammandrabbningar, Eldstormar och skogsbränder
+		RandomPlanet New M'nis Vesta
+			size: 12 500 km, 1 G
+			atmosphere: Frätande, giftig
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 4
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ikonernas kyrka, Ahlams tempel, Ahlams tempel, Drakoniterna, 
+			inOrbit: Bortglömda stationer
+			hooks: Diktatur, Extremt patriarkat/matriarkat
+		RandomPlanet 6794 Wardu 
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Legionen, Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Fraktionssammandrabbningar, Fribrigader i uppror
+		RandomGasGiant New Warly VI
+			size: 150 000 km
+			color: Svavelgul
+			temperature: -200˚
+			signature: Gasvarelser
+			inOrbit: Tom rymd
+	Star Bahram
+		numPlanets: 1
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		Planet Bahram
+
+System Sivas
+	Star Sivas
+		numPlanets: 5
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Satascha Prime
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Pariatets orden, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Forskare, Titanstormar
+		RandomPlanet  Wartir 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Vattenvärld Endast ocean.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Zenits hegemoni, 
+			inOrbit: Tom rymd
+			hooks: Farliga väsen, Eldstormar och skogsbränder
+		RandomGasGiant  Arikin 
+			size: 200 000 km
+			color: Svavelgul
+			temperature: 500˚
+			signature: Fläck - superstorm
+			inOrbit: Tom rymd
+		RandomPlanet  Satani III
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Ö-värld Oceaner och mindre landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Handelskluster rymdhamnar (+1 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Nomadfederationen, 
+			inOrbit: Måne/månar
+			hooks: Förstkomna ruiner, Fribrigader i uppror
+		RandomPlanet  Maridu VI
+			size: 2000 km, 0.1 G
+			atmosphere: Tunn
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Fribrigader i uppror, Fribrigader i uppror
+
+System Taoan
+	Star Taoan
+		numPlanets: 3
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		Planet Taoan (gasjätte)
+		RandomGasGiant New Hyrodu VI
+			size: 150 000 km
+			color: Gråskimrande
+			temperature: -200˚
+			signature: Stormar
+			inOrbit: Rymdstation
+		RandomGasGiant New Ganykin VI
+			size: 150 000 km
+			color: Svavelgul
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Måne/månar
+
+System Tarazug
+	Star Tarazug
+		numPlanets: 4
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomGasGiant  Hyrokin Prime
+			size: 150 000 km
+			color: Rödorange
+			temperature: 2000˚
+			signature: Varmt/kallt hål
+			inOrbit: Tom rymd
+		RandomPlanet  Haredo Vesta
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Handelskluster rymdhamnar (+1 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Fribrigader i uppror, Diktatur
+		RandomPlanet  Ganyri VI
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Nomadfederationen, Ikonernas kyrka, Konsortiet, 
+			inOrbit: Rymdstation
+			hooks: Okända ruiner, Tidigare kolonisering
+		RandomPlanet  Lygol VI
+			size: 12 500 km, 1 G
+			atmosphere: Tät
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Pariatets orden, 
+			inOrbit: Tom rymd
+			hooks: Fribrigader i uppror, Folkvälde
+
+System Uharu
+	Star Uharu
+		numPlanets: 3
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		Planet Uharu
+			Orbiter den lavatäckta månen Pyre
+		RandomPlanet 7791 Yaly III
+			size: 12 500 km, 1 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Ahlams tempel, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Farliga väsen, Militärer
+		RandomPlanet  Antiniredo VI
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Obebodd.
+			spaceHarbor: Metropolis rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Ikonernas kyrka, Ahlams tempel, 
+			inOrbit: Bortglömda stationer
+			hooks: Ockupation, Fraktionssammandrabbningar
+	Star Zuhal
+		numPlanets: 26
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomPlanet  Sulgol 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Zenits hegemoni, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Störtat skepp, Portalbyggarruiner
+		RandomPlanet 9164 Ganymede VI
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Ikonernas kyrka, 
+			inOrbit: Måne/månar
+			hooks: Kolonister, Kult
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Metall, vrak och planetlämningar
+			signature: Bältet frekventeras av vakuumvarelser
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Is
+			signature: 
+		RandomPlanet  M'du VI
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Pariatets orden, Fria ligan, 
+			inOrbit: Tom rymd
+			hooks: Eldstormar och skogsbränder, Mörkret mellan stjärnorna
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Grus och is
+			signature: 
+		RandomPlanet  Antinily III
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Epidemi, Störtat skepp
+		RandomPlanet  Satadu VI
+			size: 20 000 km, 2 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Hundratusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 3
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, Konsortiet, Konsortiet, 
+			inOrbit: Asteroidbälte
+			hooks: Primitiva förstkomna, Ikonokrati
+		RandomPlanet  Satakin 
+			size: 12 500 km, 1 G
+			atmosphere: Tät
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Ahlams tempel, Ahlams tempel, 
+			inOrbit: Måne/månar
+			hooks: Ockupation, Vulkanutbrott
+		RandomPlanet New Sulri Vesta
+			size: 4000 km, 0.2 G
+			atmosphere: Frätande, giftig
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Ikonernas kyrka, Ikonernas kyrka, 
+			inOrbit: Måne/månar
+			hooks: Diktatur, Titanstormar
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Damm/aska
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Grus och is
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Is
+			signature: Bältet oscillerar i storlek över segmenten, som tidvatten
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Grus och is
+			signature: En större planet finns mitt i bältet
+		RandomPlanet 4201 Sulri 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Hundratusentals invånare.
+			spaceHarbor: Handelskluster rymdhamnar (+1 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Konsortiet, Ahlams tempel, 
+			inOrbit: Måne/månar
+			hooks: Seismiskt högaktiv, Eldstormar och skogsbränder
+		RandomPlanet 2633 Ganykin VI
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Ahlams tempel, 
+			inOrbit: Tom rymd
+			hooks: Forskare, Forskare
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Damm/aska
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: Bältet är närmast svart som mörkret mellan stjärnorna och svårnavigerat
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Vanligt, cirka 1-2 AD från kant till kant
+			composition: Grus och is
+			signature: 
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Is
+			signature: En större planet finns mitt i bältet
+		RandomPlanet 6124 Yagol 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Fria ligan, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Okända ruiner, Störtat skepp
+		RandomPlanet  Kyomede 
+			size: 10 000 km, 0.7 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Ahlams tempel, Zenits hegemoni, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Extrem nederbörd, Eldstormar och skogsbränder
+		RandomPlanet 1804 M'du 
+			size: 2000 km, 0.1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Utpost.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Konsortiet, Ikonernas kyrka, 
+			inOrbit: Tom rymd
+			hooks: Tidigare kolonisering, Ikonokrati
+
+System Yastapol
+	Star Yastapol
+		numPlanets: 2
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomGasGiant New Marimede 
+			size: 60 000 km
+			color: Azurblå
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Satelliter
+		RandomGasGiant  Haly Vesta
+			size: 150 000 km
+			color: Rödorange
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Rymdstation
+
+System Zalos
+	Star Zalos A
+		numPlanets: 3
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		Planet Zalos A
+		Planet Benegia
+			Orbiter Karrmerruk
+			Orbiter Kryssaren Martyrens hammare
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Metall, vrak och planetlämningar
+			signature: Bältet är närmast svart som mörkret mellan stjärnorna och svårnavigerat
+	Star Zalos B
+		numPlanets: 4
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		Planet Zalos B
+		RandomGasGiant  Yanis III
+			size: 100 000 km
+			color: Svavelgul
+			temperature: 500˚
+			signature: Varmt/kallt hål
+			inOrbit: Tom rymd
+		RandomGasGiant New Sulmede 
+			size: 150 000 km
+			color: Svart
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Ringar
+		RandomGasGiant  Unni 
+			size: 150 000 km
+			color: Rödorange
+			temperature: 0˚
+			signature: Varmt/kallt hål
+			inOrbit: Satelliter
+
+System Zamusa
+	Star Zamusa
+		numPlanets: 2
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet  Harir Prime
+			size: 12 500 km, 1 G
+			atmosphere: Giftig
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Legionen, Ikonernas kyrka, 
+			inOrbit: Rymdstation
+			hooks: Forskare, Polisstat
+		RandomPlanet  Satanis VI
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Tusentals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 5
+			fractionBalans:  slå en tärning för varje fraktion, resultatet är styrkan gentemot de andra.
+			fractions: Pariatets orden, Ikonernas kyrka, Ikonernas kyrka, Ikonernas kyrka, Konsortiet, 
+			inOrbit: Måne/månar
+			hooks: Primitiva förstkomna, Förstkomna ruiner
+
+System Zhau
+	Star Zhau A
+		numPlanets: 6
+		hasGasGiant: 
+		hasAsteroidBelt: 
+		RandomPlanet 687 Marigol III
+			size: 4000 km, 0.2 G
+			atmosphere: Andningsbar
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Tidigare kolonisering, Förfallen stad
+		RandomPlanet 8790 Unly VI
+			size: 1000 km, Närmast 0 G
+			atmosphere: Andningsbar
+			temperature: Frusen < -50˚, Allt vatten är fruset och atmosfären är väldigt torr.
+			geosphere: Jordlik värld.
+			population: Obebodd.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Konsortiet, Syndikatet, 
+			inOrbit: Rymdstation
+			hooks: Fraktionssammandrabbningar, Primitiva förstkomna
+		RandomPlanet  Xinredo Prime
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Fria ligan, Ikonernas kyrka, 
+			inOrbit: Ringar
+			hooks: Apokalyps, Ockupation
+		RandomPlanet  Antinidu III
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Brännande >80˚ Ingen polaris, och mycket lite vatten
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Pariatets orden, Ahlams tempel, Fria ligan, 
+			inOrbit: Ringar
+			hooks: Översvämningar, Polisstat
+		RandomPlanet  Slydu 
+			size: 2000 km, 0.1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Ö-värld Oceaner och mindre landyta
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Zenits hegemoni, Ikonernas kyrka, 
+			inOrbit: Måne/månar
+			hooks: Översvämningar, Korsarer
+		RandomPlanet  Satakin 
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Jordlik värld.
+			population: Tiotusentals invånare.
+			spaceHarbor: Vältrafikerad rymdhamn (±0 underhåll). 
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Fria ligan, 
+			inOrbit: Tom rymd
+			hooks: Militärer, Seismiskt högaktiv
+	Star Zhau B
+		numPlanets: 4
+		hasGasGiant: 1
+		hasAsteroidBelt: 
+		RandomPlanet  Untir VI
+			size: 7000 km, 0.5 G
+			atmosphere: Tät
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Torr värld Utbredda öknar och torra slätter med enstaka mindre hav.
+			population: Övergiven utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 3
+			fractionBalans: Tre konkurrerande
+			fractions: Konsortiet, Pariatets orden, Nomadfederationen, 
+			inOrbit: Måne/månar
+			hooks: Naturkatastrof, Diktatur
+		RandomGasGiant  Lymede VI
+			size: 150 000 km
+			color: Rödorange
+			temperature: 1000˚
+			signature: Artefakt i omloppsbana
+			inOrbit: Bortglömda stationer
+		RandomGasGiant  Satadu III
+			size: 150 000 km
+			color: Svavelgul
+			temperature: -200˚
+			signature: Fläck - superstorm
+			inOrbit: Satelliter
+		RandomPlanet 1568 M'kin Prime
+			size: 12 500 km, 1 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Utpost.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: En dominerande, en svag
+			fractions: Zenits hegemoni, Ikonernas kyrka, 
+			inOrbit: Satelliter
+			hooks: Extrem nederbörd, Primitiva förstkomna
+	Star Zhau C
+		numPlanets: 3
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomPlanet 145 Ariri VI
+			size: 7000 km, 0.5 G
+			atmosphere: Andningsbar
+			temperature: Tempererad 0˚ till 30˚ Jordlik planet med moln och polarisar
+			geosphere: Jordlik värld.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Konsortiet, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Fribrigader i uppror, Extremt patriarkat/matriarkat
+		RandomPlanet New Kyokin III
+			size: 7000 km, 0.5 G
+			atmosphere: Tät
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Jordlik värld.
+			population: Hundratals invånare.
+			spaceHarbor: Primitivt landningsfält (-3 underhåll).
+			numFractions: 2
+			fractionBalans: Två konkurrerande
+			fractions: Legionen, Konsortiet, 
+			inOrbit: Tom rymd
+			hooks: Vulkanutbrott, Extrem nederbörd
+		RandomPlanet  Pempni Prime
+			size: 12 500 km, 1 G
+			atmosphere: Tunn
+			temperature: Kall -50˚ till 0˚, Lite vatten finns, istid på land och få moln.
+			geosphere: Ökenvärld Endast öken och bara underjordiskt vatten.
+			population: Tusentals invånare.
+			spaceHarbor: Enkel rymdhamn (-3 underhåll).
+			numFractions: 1
+			fractionBalans: En ensam dominerande
+			fractions: Ikonernas kyrka, 
+			inOrbit: Måne/månar
+			hooks: Diktatur, Förfallen stad
+
+System Zib
+	Star Zamusa
+		numPlanets: 4
+		hasGasGiant: 
+		hasAsteroidBelt: 1
+		RandomBelt Asteroidbälte
+			size: Utspritt, >20 AD brett
+			composition: Grus och is
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomBelt Asteroidbälte
+			size: Smalt som en ring, mindre än en planetdiameter (5 - 10 000 km)
+			composition: Damm/aska
+			signature: Bältet går i vinkel mot övriga planeters banor
+		RandomPlanet  Ganynis VI
+			size: 7000 km, 0.5 G
+			atmosphere: Tunn
+			temperature: Varm 31˚ till 80˚ Lite vatten finns, små polarisar och mycket moln
+			geosphere: Våt värld Stora hav men mest landyta
+			population: Tiotusentals invånare.
+			spaceHarbor: Medelstor rymdhamn (±0 underhåll). 
+			numFractions: 2
+			fractionBalans: Två i balans
+			fractions: Pariatets orden, Nomadfederationen, 
+			inOrbit: Tom rymd
+			hooks: Extremt patriarkat/matriarkat, Korsarer
+		RandomBelt Asteroidbälte
+			size: Massivt, 10 AD brett och högt. Det skymmer solen för de yttre planeterna
+			composition: Metall, vrak och planetlämningar
+			signature: Bältet går i vinkel mot övriga planeters banor

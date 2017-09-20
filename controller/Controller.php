@@ -10,7 +10,7 @@ class Controller {
 
 	public function doRandomize() {
 
-		$this->h->fill();
-		$this->v->show();
+		$this->h->fill($this->v->getSeed());
+		return $this->v->show();
 	}
 }

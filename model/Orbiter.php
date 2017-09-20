@@ -20,4 +20,8 @@ class Orbiter {
 	public function add(Orbiter $star) {
 		$this->orbiters[] = $star;
 	}
+
+	public function getType() : String {
+		return "Orbiter";
+	}
 }

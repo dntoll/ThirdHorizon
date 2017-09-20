@@ -113,7 +113,7 @@ class ThirdHorizon {
 		$star = new Star("Hamura", 0, 2, true, false); //Gasgiant, astrobelt
 
 		$hamura = new Planet("Hamura");
-		$hamura->add(new Orbiter("Hamurabi"));
+		$hamura->add(new SpaceStation("Hamurabi"));
 		$star->add($hamura);
 
 		$system->add($star);
@@ -126,17 +126,17 @@ class ThirdHorizon {
 		$kuastar->add(new Planet("Lubau"));
 		$kuastar->add(new Planet("Jina"));
 		$kuaplanet = new Planet("Kua");
-		$orbiter = new Orbiter("Coriolis");
+		$orbiter = new SpaceStation("Coriolis");
 		$orbiter->population = 521465 + 189453;
 		$orbiter->size = "6136m hög, 3540m diameter";
 		$kuaplanet->add($orbiter);
-		$kuaplanet->add(new Orbiter("Nätet"));
+		$kuaplanet->add(new SpaceStation("Nätet"));
 		$kuastar->add($kuaplanet);
-		$kuastar->add(new Planet("Asteroidbältet"));
+		$kuastar->add(new Asteroidbelt("Asteroidbältet"));
 		$kuastar->add(new Planet("Xene"));
 		$kuastar->add(new Planet("Surha"));
-		$gransrymden = new Planet("Gränsrymden");
-		$gransrymden->add(new Orbiter("Djachroum"));
+		$gransrymden = new Fringe("Gränsrymden");
+		$gransrymden->add(new SpaceStation("Djachroum"));
 		$kuastar->add($gransrymden);
 		
 		
@@ -190,11 +190,11 @@ class ThirdHorizon {
 		$system = new StarSystem("Odacon");
 		$third->addStarSystem($system);
 		$star = new Star("Odacon", 0, 5, false, true); //Gasgiant, astrobelt
-		$star->add(new Orbiter("Khôban"));
+		$star->add(new SpaceStation("Khôban"));
 		$sethlan = new Planet("Sethlan");
-		$sethlan->add(new Orbiter("Echron"));
+		$sethlan->add(new SpaceStation("Echron"));
 		$star->add($sethlan);
-		$star->add(new Orbiter("Askbältet"));
+		$star->add(new Asteroidbelt("Askbältet"));
 		$star->add(new Planet("Qayna"));
 		$system->add($star);
 
@@ -239,7 +239,7 @@ class ThirdHorizon {
 		$third->addStarSystem($system);
 		$star = new Star("Uharu", 0, 3, false, false); //Gasgiant, astrobelt
 		$uharu = new Planet("Uharu");
-		$uharu->add(new Orbiter("den lavatäckta månen Pyre"));
+		$uharu->add(new Moon("den lavatäckta månen Pyre"));
 		$star->add($uharu);
 		$system->add($star);
 		$star = new Star("Zuhal", 15, 26, false, true); //Gasgiant, astrobelt
@@ -255,7 +255,7 @@ class ThirdHorizon {
 		$star = new Star("Zalos A", 0, 3, false, true); //Gasgiant, astrobelt
 		$star->add(new Planet("Zalos A"));
 		$benegia = new Planet("Benegia");
-		$benegia->add(new Orbiter("Karrmerruk"));
+		$benegia->add(new SpaceStation("Karrmerruk"));
 		$benegia->add(new Orbiter("Kryssaren Martyrens hammare"));
 		$star->add($benegia);
 		$system->add($star);

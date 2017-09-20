@@ -41,9 +41,9 @@ function planetNameGenerator() {
 
 
 
-	$preNames = array("", "", "", "New", "", "");
-	$firstParts = array("Sul", "War", "Antini", "Un", "Pemp", "Sata", "Xin", "M'", "Ly", "Sly", "Gany", "Kyo", "Hyro", "Mari", "Ari", "Ha", "Ya");
-	$secondParts = array("du", "ly", "scha", "gol", "redo", "nis", "ri", "tir", "ni", "mede", "kin", "rir");
+	$preNames = array("", "", "", "New", "Utopia", "Old", "Lost");
+	$firstParts = array("Ami","Sul", "War", "Anti", "Un", "Pemp", "Sata", "Xin", "M'", "Ly", "Sly", "Gany", "Hyro", "Mari", "Ari", "Ha", "Ya", "Af", "Ala", "Fid", "Gab", "Ham", "Hib", "Hus", "Kam", "Khay", "Nad", "Ras", "Ruh");
+	$secondParts = array("du", "ly", "scha", "gol", "redo", "nis", "ri", "tir", "ni", "mede", "kin", "rir", "ein", "na", "sam", "am", "bal", "mat", "far", "eela", "ima", "led", "lid", "mid", "iyya", "ul", "'adat", "bah");
 	$lastNames = array("", "", "", "Prime", "III", "Vesta", "VI");
 
 	$firstPart = $firstParts[rand()%count($firstParts)];
@@ -128,6 +128,10 @@ function fraction() {
 }
 
 class RandomPlanet extends Planet {
+
+	public function getType() : String {
+		return "Planet";
+	}
 
 	public function __construct() {
 		$atmodies = 0; //modifierare
@@ -283,6 +287,10 @@ class RandomPlanet extends Planet {
 }
 
 class RandomGasGiant extends Planet {
+	public function getType() : String {
+		return "Gasjätte";
+	}
+
 	public function __construct() {
 		$die = dieRoll(2);
 		switch ($die) {
@@ -354,7 +362,8 @@ class RandomGasGiant extends Planet {
 
 
 
-class RandomBelt extends Planet {
+class RandomBelt extends Asteroidbelt {
+
 	public function __construct() {
 
 		$die = dieRoll(1);
@@ -385,13 +394,13 @@ class RandomBelt extends Planet {
 			case 5 : 
 			case 6 : 
 			case 7 : 
-			case 8 : $this->signature = ""; break; //Inget särskilt
+			case 8 : $this->signature = "Inget särskilt"; break; //Inget särskilt
 			case 9 : $this->signature = "Bältet går i vinkel mot övriga planeters banor"; break;
 			case 10 : $this->signature = "Bältet frekventeras av vakuumvarelser"; break;
 			case 11 : $this->signature = "Bältet oscillerar i storlek över segmenten, som tidvatten"; break;
 			case 12 : $this->signature = "Bältet innehåller mycket rester från portalbyggarna"; break;
 		}
 
-		parent::__construct("Asteroidbälte");
+		parent::__construct(planetNameGenerator());
 	}
 }

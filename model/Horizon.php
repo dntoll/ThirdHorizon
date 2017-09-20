@@ -5,6 +5,10 @@ require_once("StarSystem.php");
 require_once("Star.php");
 require_once("Planet.php");
 require_once("Moon.php");
+require_once("SpaceStation.php");
+require_once("Asteroidbelt.php");
+require_once("Fringe.php");
+require_once("Seed.php");
 
 class Horizon {
 
@@ -20,8 +24,15 @@ class Horizon {
 		$this->systems[] = $system;
 	}
 
-	public function fill() {
-		foreach($this->systems as $system) {
+	public function getNumSystems() : int {
+		return count($this->systems);
+	}
+
+	public function fill(Seed $seed) {
+
+		
+		foreach($this->systems as $key => $system) {
+			srand($seed->getSystemSeed($key));
 			$system->fill();
 		}
 	}

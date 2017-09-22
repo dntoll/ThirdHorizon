@@ -8,6 +8,7 @@ require_once("Moon.php");
 require_once("SpaceStation.php");
 require_once("Asteroidbelt.php");
 require_once("Fringe.php");
+require_once("GasGiant.php");
 require_once("Seed.php");
 
 class Horizon {

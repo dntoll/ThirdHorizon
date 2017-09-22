@@ -1,5 +1,5 @@
 <?php
-
+require_once("StarImage.php");
 
 
 class View {
@@ -56,9 +56,10 @@ class View {
 	private function showSystem(int $key, StarSystem $system, Seed $seed) : String {
 		$ret = "";
 		$ret .=  "<h2>System " . $system->getName() . "</h2>\n" ;
-		$ret .= "<a href='?".self::$systemLink."=$key&seed=" . $this->seed->getSeedStringModified($key) . "'>Randomize this System</a>";
+		
+		
 		$stars = $system->getOrbiters();
-
+		
 		$ret .=  "<ul>";
 		foreach ($stars as $star) {
 			$ret .= $this->showStarLink($star);
@@ -68,11 +69,21 @@ class View {
 		foreach ($stars as $star) {
 			$ret .= $this->showOrbiter($star, 3);
 		}
+
+		$ret .= "<a href='?".self::$systemLink."=$key&seed=" . $this->seed->getSeedStringModified($key) . "'>Randomize this System</a>";
 		return $ret;
 	}
 
+
+
 	private function showStarLink(Star $star) {
-		return  "<a href=\"#" . urlencode($star->getType() ." " . $star->getName()) . "\">" . $star->getName() . "</a>\n" ;
+		$ret = "";
+		
+
+		$ret .= "<a href=\"#" . urlencode($star->getType() ." " . $star->getName()) . "\">" . $star->getName() . "</a>\n" ;
+		if ($star->getDistance() > 0)
+			$ret .= "(" . $star->getDistance() . " AD)";
+		return $ret;
 	}
 
 	private function showOrbiter(Orbiter $star, $depth) : String  {
@@ -80,6 +91,12 @@ class View {
 		
 
 		$ret .=  "<h$depth id=\"" .urlencode($star->getType() ." " . $star->getName()). "\" >" . $star->getType() ." " . $star->getName() . "</h$depth>\n" ;
+
+		if ($depth <= 3) {
+			$img = new StarImage();
+			$ret .= $img->getStarImage($star);
+		}
+		$ret .=  "<p>" . $star->getExtraInfo() . "</p>";
 		$ret .=  "<ul>";
 		foreach ($star as $key => $value) {
 			$ret .=  "<li>" . $this->translateKeySE($key) .": " . $this->translateValueSE($value) . "</li>" ;
@@ -112,8 +129,8 @@ class View {
 			case "spaceHarbor" : return "Rymdhamn";
 			case "numFractions" : return "Antal Fraktioner";
 			case "fractionBalans" : return "Balans mellan fraktioner";
-			case "fractions" : return "Befolkning";
-			case "inOrbit" : return "Aktiva Fraktioner";
+			case "fractions" : return "Aktiva Fraktioner";
+			case "inOrbit" : return "I omloppsbana";
 			case "hooks" : return "Krokar";
 			case "composition" : return "Sammansättning";
 			case "signature" : return "Signatur";

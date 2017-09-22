@@ -286,10 +286,7 @@ class RandomPlanet extends Planet {
 	
 }
 
-class RandomGasGiant extends Planet {
-	public function getType() : String {
-		return "Gasjätte";
-	}
+class RandomGasGiant extends GasGiant {
 
 	public function __construct() {
 		$die = dieRoll(2);

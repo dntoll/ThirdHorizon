@@ -10,7 +10,6 @@ class Star extends Orbiter {
 		$this->numPlanets = $numPlanets;
 		$this->hasGasGiant= $hasGasGiant;
 		$this->hasAsteroidBelt = $hasAsteroidBelt;
-		
 	}
 
 	
@@ -22,7 +21,7 @@ class Star extends Orbiter {
 		$pre = count($this->orbiters);
 		$notFilled = $this->numPlanets - $pre;
 
-
+		//Not really happy with the placement of this method here in this class...
 		$hasSpawnedGasGiant = false;
 		$hasSpawnedAsteroidBelt = false;
 
@@ -37,24 +36,28 @@ class Star extends Orbiter {
 			} else if ($this->hasGasGiant === false && $this->hasAsteroidBelt === false) {
 				$this->add(new RandomPlanet());
 			} else if ($this->hasGasGiant === true && $this->hasAsteroidBelt === false) {
-				if (rand()%2) {
+				if (rand()%3 > 0) {
 					$this->add(new RandomPlanet());
 				} else {
 					$this->add(new RandomGasGiant());
+					$hasSpawnedGasGiant = true;
 				}
 			} else if ($this->hasGasGiant === false && $this->hasAsteroidBelt === true) {
-				if (rand()%2) {
+				if (rand()%3 > 0) {
 					$this->add(new RandomPlanet());
 				} else {
 					$this->add(new RandomBelt());
+					$hasSpawnedAsteroidBelt = true;
 				}
 			} else {
-				if (rand()%2) {
+				if (rand()%3 > 0) {
 					$this->add(new RandomPlanet());
 				} else if (rand()%2) {
 					$this->add(new RandomGasGiant());
+					$hasSpawnedGasGiant = true;
 				} else{
 					$this->add(new RandomBelt());
+					$hasSpawnedAsteroidBelt = true;
 				}
 			}
 		}

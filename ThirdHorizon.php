@@ -125,7 +125,7 @@ class ThirdHorizon {
 		$kua->add($kuastar);
 		$kuastar->add(new Planet("Lubau"));
 		$kuastar->add(new Planet("Jina"));
-		$kuaplanet = new Planet("Kua");
+		$kuaplanet = new Planet("Kua", "Horisontenboken s170");
 		$orbiter = new SpaceStation("Coriolis");
 		$orbiter->population = 521465 + 189453;
 		$orbiter->size = "6136m hög, 3540m diameter";
@@ -133,7 +133,7 @@ class ThirdHorizon {
 		$kuaplanet->add(new SpaceStation("Nätet"));
 		$kuastar->add($kuaplanet);
 		$kuastar->add(new Asteroidbelt("Asteroidbältet"));
-		$kuastar->add(new Planet("Xene"));
+		$kuastar->add(new GasGiant("Xene"));
 		$kuastar->add(new Planet("Surha"));
 		$gransrymden = new Fringe("Gränsrymden");
 		$gransrymden->add(new SpaceStation("Djachroum"));
@@ -146,10 +146,10 @@ class ThirdHorizon {
 		$star = new Star("Marfik", 0, 4, false, false);
 		$mira->add($star);
 
-		$mira = new StarSystem("Melik");
-		$third->addStarSystem($mira);
+		$system = new StarSystem("Melik");
+		$third->addStarSystem($system);
 		$star = new Star("Melik", 0, 5, true, false); //Gasgiant, astrobelt
-		$mira->add($star);
+		$system->add($star);
 
 		$system = new StarSystem("Menkar");
 		$third->addStarSystem($mira);
@@ -227,7 +227,7 @@ class ThirdHorizon {
 		$system = new StarSystem("Taoan");
 		$third->addStarSystem($system);
 		$star = new Star("Taoan", 0, 3, true, false); //Gasgiant, astrobelt
-		$star->add(new Planet("Taoan (gasjätte)"));
+		$star->add(new GasGiant("Taoan"));
 		$system->add($star);
 
 		$system = new StarSystem("Tarazug");
